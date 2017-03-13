@@ -18,11 +18,8 @@
         <md-list-item @click.native="route('/example')">
           <md-icon>move_to_inbox</md-icon> <span>Example</span>
         </md-list-item>
-        <md-list-item @click.native="route('/example')">
-          <md-icon>send</md-icon> <span>Sent Mail</span>
-        </md-list-item>
-        <md-list-item @click.native="route('/example')">
-          <md-icon>delete</md-icon> <span>Trash</span>
+        <md-list-item @click.native="route('/example2')">
+          <md-icon>send</md-icon> <span>Example2</span>
         </md-list-item>
       </md-list>
     </md-sidenav>

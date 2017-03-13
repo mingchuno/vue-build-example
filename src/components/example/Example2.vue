@@ -1,10 +1,10 @@
 <template>
   <div class="container">
-    <p>This is /example</p>
+    <p>This is /example2</p>
     <div>
       <span>global state count = {{ count }}</span>
     </div>
-    <md-button class="md-raised md-primary" @click.native="inc">increase</md-button>
+    <md-button class="md-raised md-warn" @click.native="inc">increase</md-button>
   </div>
 </template>
 
