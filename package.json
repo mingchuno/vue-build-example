@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "name": "vue-vbuild-example",
+  "version": "0.0.0",
+  "repository": {},
+  "scripts": {
+    "test": "echo lol",
+    "lint": "vbuild -c --eslint",
+    "dev": "vbuild -dc",
+    "build": "vbuild -c"
+  },
+  "devDependencies": {
+    "vbuild": "^6.0.0"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "vue-material": "^0.7.1",
+    "vue-router": "^2.3.0",
+    "vuex": "^2.2.1"
+  }
+}
