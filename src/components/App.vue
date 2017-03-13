@@ -21,7 +21,11 @@
         <md-list-item @click.native="route('/example2')">
           <md-icon>send</md-icon> <span>Example2</span>
         </md-list-item>
+        <md-list-item @click.native="route('/example3')">
+          <md-icon>send</md-icon> <span>Example3</span>
+        </md-list-item>
       </md-list>
+
     </md-sidenav>
 
     <!-- route outlet -->
