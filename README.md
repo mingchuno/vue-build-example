@@ -1,5 +1,7 @@
 # vue-vbuild-example
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mingchuno/vue-build-example.svg)](https://greenkeeper.io/)
+
 
 ## Folder structure
 
